@@ -11,10 +11,6 @@ A data science project that demonstrates a full end-to-end pipeline using Python
 - Build and evaluate a Random Forest model for predictive analysis.
 - Create a user-friendly dashboard using Streamlit to visualize KPIs and model outputs.
 
----
-
-## 📁 Project Structure
-
 
 ---
 
