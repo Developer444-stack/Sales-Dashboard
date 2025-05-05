@@ -16,7 +16,8 @@ A data science project that demonstrates a full end-to-end pipeline using Python
 
 ## 🔍 Dataset
 
-Dataset used: [Superstore Sales Dataset]((https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data))  
+Dataset used: [Superstore Sales Dataset]
+(https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting/data)  
 
 
 ---
